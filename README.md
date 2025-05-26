@@ -1,7 +1,7 @@
 # Passport application system
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224230106
+# Name: Jisha Bossne SJ
+# Date: 26.05.2025
 
 
 # AIM:
@@ -38,11 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+![Screenshot 2025-05-26 211507](https://github.com/user-attachments/assets/25950d7c-7978-4e62-97bf-a5269ace3853)
 
 # CLASS DIAGRAM
 
@@ -58,7 +54,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+![Screenshot 2025-05-26 213148](https://github.com/user-attachments/assets/4389e198-22ad-49cc-96bb-7e4a7cc03473)
 
 # COMMUNICTION DIAGRAM:
 
@@ -66,8 +62,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+![WhatsApp Image 2025-05-26 at 20 34 08_a818debc](https://github.com/user-attachments/assets/c4159d05-7d08-45ec-99e0-6df52760c196)
 
 # PACKAGE DIAGRAM:
 
@@ -77,12 +72,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+![WhatsApp Image 2025-05-26 at 20 22 03_a0ca520d](https://github.com/user-attachments/assets/97dc3727-c726-41a3-a3d2-d0fb34adcb94)
 
 # ACTIVITY DIAGRAM:
 
@@ -96,8 +86,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+![Screenshot 2025-05-26 222107](https://github.com/user-attachments/assets/04ec346d-5b1a-4e6b-af3a-e0ad78e47d0d)
 
 
 # SEQUENCE DIAGRAM
@@ -117,10 +106,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
-
+![Screenshot 2025-05-26 214247](https://github.com/user-attachments/assets/79ce01d1-090b-427a-a221-a81261d0ea48)
 
 # RESULT
 
